@@ -55,8 +55,8 @@ Caso queira modificar o código ou rodar em modo de desenvolvimento, você preci
 ### Passos para Instalação
 1.  Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/seu-usuario/DSci.git
+    cd DSci
     ```
 2.  Instale as dependências necessárias:
     ```bash
