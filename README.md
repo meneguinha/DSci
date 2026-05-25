@@ -11,9 +11,9 @@ A aplicação conta com uma interface gráfica moderna e responsiva desenvolvida
 Se você deseja apenas utilizar a aplicação, **não é necessário instalar o Python ou usar o terminal**:
 
 1. Acesse a aba **Releases** do repositório no GitHub.
-2. Baixe a versão correspondente ao seu sistema operacional:
-   - **Windows**: Baixe o arquivo `DSci-Windows.exe`.
-   - **Linux**: Baixe o arquivo `DSci-Linux`.
+2. Ou baixe diretamente a versão mais recente para o seu sistema operacional:
+   - **Windows**: [DSci-Windows.exe](https://github.com/meneguinha/DSci/releases/download/v1.0.0/DSci-Windows.exe)
+   - **Linux**: [DSci-Linux](https://github.com/meneguinha/DSci/releases/download/v1.0.0/DSci-Linux)
 3. Dê dois cliques no arquivo baixado e comece a usar!
 
 *Nota: Na primeira execução, a aplicação criará automaticamente uma pasta chamada `downloads` no mesmo diretório do executável para organizar os artigos baixados.*
@@ -55,7 +55,7 @@ Caso queira modificar o código ou rodar em modo de desenvolvimento, você preci
 ### Passos para Instalação
 1.  Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/DSci.git
+    git clone https://github.com/meneguinha/DSci.git
     cd DSci
     ```
 2.  Instale as dependências necessárias:
